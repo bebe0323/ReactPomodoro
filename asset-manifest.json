@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPomodoro/static/css/main.3a1f2e3a.css",
+    "main.js": "/ReactPomodoro/static/js/main.220c5648.js",
+    "index.html": "/ReactPomodoro/index.html",
+    "main.3a1f2e3a.css.map": "/ReactPomodoro/static/css/main.3a1f2e3a.css.map",
+    "main.220c5648.js.map": "/ReactPomodoro/static/js/main.220c5648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1f2e3a.css",
+    "static/js/main.220c5648.js"
+  ]
+}
